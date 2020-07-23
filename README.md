@@ -1,19 +1,20 @@
-Sobre o Projeto 🔐
-O projeto consiste em uma tela de login e register, criadas utilizando as seguintes tecnologias:
-
-ReactJs;
-Javascript;
-
-Iniciando o projeto
-
-Faça o clone do projeto
-
-<code>
- $ git clone https://github.com/jvitorssouza/react-login.git
-</code>
-
-Instale as dependências
-
- $ yarn install ou npm install
-Inicie o projeto
- $ yarn start ou npm start
+<article class="markdown-body entry-content container-lg" itemprop="text">
+ <p> Visualize a calculadora clicando no link  abaixo: </p>
+<p> https://calculator--reactjs.herokuapp.com </p>
+<h2><a id="user-content-sobre-o-projeto-closed_lock_with_key" class="anchor" aria-hidden="true" href="#sobre-o-projeto-closed_lock_with_key"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Sobre o Projeto <g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐</g-emoji></h2>
+<p>O projeto consiste em uma calculadora, criada utilizando as seguintes tecnologias:</p>
+<ul>
+<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"></g-emoji> ReactJs</li>
+<li><g-emoji class="g-emoji" alias="nail_care" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f485.png"></g-emoji> Javascript</li>
+</ul>
+<h2><a id="user-content-iniciando-o-projeto" class="anchor" aria-hidden="true" href="#iniciando-o-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Iniciando o projeto</h2>
+<h3><a id="user-content-faça-o-clone-do-projeto" class="anchor" aria-hidden="true" href="#faça-o-clone-do-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Faça o clone do projeto</h3>
+<pre><code> $ git clone https://github.com/pscsantos/calculator-reactJs.git
+</code></pre>
+<h3><a id="user-content-instale-as-dependências" class="anchor" aria-hidden="true" href="#instale-as-dependências"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Instale as dependências</h3>
+<pre><code> $ yarn install ou npm install
+</code></pre>
+<h3><a id="user-content-inicie-o-projeto" class="anchor" aria-hidden="true" href="#inicie-o-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Inicie o projeto</h3>
+<pre><code> $ yarn start ou npm start
+</code></pre>
+</article>
